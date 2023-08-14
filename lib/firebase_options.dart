@@ -50,22 +50,20 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyBqrRVnjdRIrQ-ZzZaZXBpGVEDqP77W0mI',
-    appId: '1:862963623225:android:d8df8214a5d5cd8770b4e8',
-    messagingSenderId: '862963623225',
-    projectId: 'albert-softwarica-test-1001',
-    databaseURL: 'https://albert-softwarica-test-1001-default-rtdb.firebaseio.com',
-    storageBucket: 'albert-softwarica-test-1001.appspot.com',
+    apiKey: 'AIzaSyBdKeihISKbFQtEGMvUwcjP1taissKq8v4',
+    appId: '1:977588062124:android:281fd682db492c53435c09',
+    messagingSenderId: '977588062124',
+    projectId: 'naya-881e0',
+    storageBucket: 'naya-881e0.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyCnI5OOrXH1owBqoFLNHUeWw9RI_TDjv_o',
-    appId: '1:862963623225:ios:59e69aa52ec518e570b4e8',
-    messagingSenderId: '862963623225',
-    projectId: 'albert-softwarica-test-1001',
-    databaseURL: 'https://albert-softwarica-test-1001-default-rtdb.firebaseio.com',
-    storageBucket: 'albert-softwarica-test-1001.appspot.com',
-    iosClientId: '862963623225-s4ld8jqv257pntgoibst6dl9gp292jco.apps.googleusercontent.com',
+    apiKey: 'AIzaSyBKeNC2LyTP6QomjHCevLzQsYZvncorqcw',
+    appId: '1:977588062124:ios:a339a458565b19b0435c09',
+    messagingSenderId: '977588062124',
+    projectId: 'naya-881e0',
+    storageBucket: 'naya-881e0.appspot.com',
+    iosClientId: '977588062124-jq5ofcl77p5dp58hr439s2fvlsmomdn1.apps.googleusercontent.com',
     iosBundleId: 'com.example.nBaz',
   );
 }
